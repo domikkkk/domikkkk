@@ -1,16 +1,15 @@
-### Hi there 👋
+# Projects
 
-<!--
-**domikkkk/domikkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## KhufraBot -> [click](https://github.com/domikkkk/KhufraBot)
 
-Here are some ideas to get you started:
+- A discord bot that was created to support playing Ikariam. However, now it has more functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Used technologies:
+  - Python, C
+
+## Typer -> [click](https://github.com/domikkkk/Typer)
+
+- A discord bot that was created to count winning and losing bets. Based on them, it displays monthly statistics.
+
+- Used technologies:
+  - Python
